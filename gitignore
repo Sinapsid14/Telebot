@@ -1,0 +1,21 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# IDE
+.idea/
+*.iml
+
+# Логи и кеш
+*.log
+*.pid
+
+# Прочие
+.DS_Store
+Thumbs.db
